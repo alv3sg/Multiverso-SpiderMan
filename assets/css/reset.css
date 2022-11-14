@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    vertical-align: baseline;  /*para alinhar a img com o texto na mesma caixa*/
+    list-style: none;
+    color: #ffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
